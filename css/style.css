@@ -1,0 +1,19 @@
+.content-header {
+	padding: 3px 0.5rem;
+}
+.table td, .table th {
+	padding:3px 10px;
+}
+.form-control{
+	height:28px;
+	padding: 1px 5px;
+	border: 1px solid #000000 !important;
+}
+.select2-container--default .select2-selection--single{
+	height:28px;
+	padding: 1px 5px;
+	border: 1px solid #000000 !important;
+}
+.btn {
+	padding:1px 7px;
+}
